@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ALi_Hassan_Project
+namespace knapsack
 {
     class LinkedList
     {
